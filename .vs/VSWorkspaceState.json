@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\SRS - Sistema de Nomina",
+    "\\SRS - Sistema de Nomina\\ClassLibrary1",
+    "\\SRS - Sistema de Nomina\\ClassLibrary1\\Data",
     "\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina",
-    "\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp",
-    "\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes",
     "\\SRS - Sistema de Nomina\\Test"
   ],
-  "SelectedNode": "\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina.sln",
+  "SelectedNode": "\\SRS - Sistema de Nomina\\ClassLibrary1\\Data\\EmpleadoRepository.cs",
   "PreviewInSolutionExplorer": false
 }

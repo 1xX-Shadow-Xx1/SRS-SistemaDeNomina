@@ -106,10 +106,10 @@
             // 
             comboBox1.Font = new Font("Century Gothic", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Empleado Asalariado", "Empleado por Comision", "Empleado Asalariado con Comision", "Empleado por hora" });
+            comboBox1.Items.AddRange(new object[] { "Empleado Asalariado", "Empleado Asalariado con Comision", "Empleado por Comision", "Empleado por hora" });
             comboBox1.Location = new Point(165, 227);
             comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(132, 25);
+            comboBox1.Size = new Size(213, 25);
             comboBox1.TabIndex = 5;
             comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 

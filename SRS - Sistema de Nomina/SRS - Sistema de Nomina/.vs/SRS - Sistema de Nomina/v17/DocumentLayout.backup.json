@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\emergenteeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\emergenteeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoasalariadocomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoasalariadocomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\paneles tipos de empleados\\tipoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\emergenteeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\emergenteeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\formapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\formapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\emergenteagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\emergenteagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmergenteEditar.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
-              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAArwEEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:46:18.696Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -60,77 +23,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmergenteEditar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs [Dise\u00F1o]",
+              "Title": "EmergenteAgregar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:49:26.583Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TipoAsalariadoComi.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariadoComi.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariadoComi.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariadoComi.cs",
-              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariadoComi.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:48:35.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoPorHora.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorHora.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorHora.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorHora.cs",
-              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorHora.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:48:28.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TipoPorComision.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorComision.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorComision.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorComision.cs",
-              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoPorComision.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:48:14.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TipoAsalariado.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariado.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariado.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariado.cs",
-              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\Paneles tipos de Empleados\\TipoAsalariado.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:45:00.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormApp.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\FormApp.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\FormApp.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\FormApp.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp\\FormApp.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:43:16.5Z",
+              "WhenOpened": "2025-09-17T03:01:11.731Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

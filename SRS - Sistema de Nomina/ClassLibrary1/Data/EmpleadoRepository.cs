@@ -36,8 +36,7 @@ namespace ClassLibrary1.Data
             // Lógica para eliminar un empleado de la base de datos o colección
             empleados.Remove(ObtenerEmpleadoPorNSS(nss));
             Console.WriteLine($"Empleado con NSS {nss} eliminado.\n" +
-                $"--------------------------\n" +
-                $"{empleados.FirstOrDefault(ObtenerEmpleadoPorNSS(nss)).ToString()}");
+                $"--------------------------\n");
         }
         public void ActualizarEmpleado(Empleado empleado)
         {

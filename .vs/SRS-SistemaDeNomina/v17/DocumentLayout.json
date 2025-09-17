@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\WinFormsApp.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\WinFormsApp.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WinFormsApp.csproj.user",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\WinFormsApp.csproj.user",
-              "RelativeDocumentMoniker": "SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\WinFormsApp.csproj.user",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\WinFormsApp.csproj.user",
-              "RelativeToolTip": "SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\WinFormsApp.csproj.user",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2025-09-17T02:19:43.928Z",
-              "EditorCaption": ""
             }
           ]
         }

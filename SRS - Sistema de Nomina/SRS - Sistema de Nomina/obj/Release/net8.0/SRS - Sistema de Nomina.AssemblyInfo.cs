@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SRS - Sistema de Nomina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685dd425a1c75b93a62ce8c3396945aa27084d73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05068cd16cb952d247242785bb335f571a99e28")]
 [assembly: System.Reflection.AssemblyProductAttribute("SRS - Sistema de Nomina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SRS - Sistema de Nomina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

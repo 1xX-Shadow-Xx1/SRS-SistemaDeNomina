@@ -19,7 +19,7 @@ namespace ConsoleApp.Menu
             Console.WriteLine("---- Editar Empleado ----");
             Console.WriteLine("Ingresa su NSS");
             Console.WriteLine("-------------------------------");
-            Console.Write("NSS: ");
+            Console.Write("NSS:");
             string nss = Console.ReadLine();
             EditarEmpleado(nss);
         }

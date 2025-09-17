@@ -34,3 +34,22 @@ C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Pr
 C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Programacion II\Diseño orientado a objetos\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Programacion II\Diseño orientado a objetos\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Programacion II\Diseño orientado a objetos\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\emergenteagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\emergenteagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FFBBD007-906D-4E7A-A52B-4498A8D80C22}|..\\ClassLibrary1\\ClassLibrary.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\classlibrary1\\data\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DE4B6A-1772-4CDF-B107-80834F23CBFB}|..\\ConsoleApp\\ConsoleApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\consoleapp\\menu\\menueditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +24,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmergenteAgregar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs",
-              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\EmergenteAgregar.cs [Dise\u00F1o]*",
+              "DocumentIndex": 1,
+              "Title": "MenuEditar.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\ConsoleApp\\Menu\\MenuEditar.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Menu\\MenuEditar.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\ConsoleApp\\Menu\\MenuEditar.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\Menu\\MenuEditar.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADgv4sAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T03:01:11.731Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-17T03:27:28.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\ClassLibrary1\\Data\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Data\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\ClassLibrary1\\Data\\EmpleadoRepository.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Data\\EmpleadoRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDEAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T03:19:25.862Z",
+              "EditorCaption": ""
             }
           ]
         }

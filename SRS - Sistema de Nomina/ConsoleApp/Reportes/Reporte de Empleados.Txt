@@ -1,0 +1,4 @@
+---- Reporte de Empleados ----
+Nombre: kevin liriano || NSS: 202 || Tipo de Empleado: EmpleadoAsalariado || Salario: 50.000,00 €
+--------------------------- 
+Total a Pagar: 50.000,00 €

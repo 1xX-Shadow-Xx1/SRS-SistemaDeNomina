@@ -22,7 +22,7 @@ namespace ClassLibrary1.Data
             {
                 return empleados.FirstOrDefault(e => e.NumeroSeguroSocial == nss);
             }
-            return null;
+            else return null;
 
         }
         public void AgregarEmpleado(Empleado empleado)
@@ -42,21 +42,19 @@ namespace ClassLibrary1.Data
         {
             // Lógica para actualizar un empleado en la base de datos o colección
             var empleadoExistente = ObtenerEmpleadoPorNSS(empleado.NumeroSeguroSocial);
-            Empleado empleadoAntiguo = empleadoExistente;
             if (empleadoExistente != null)
             {
                 empleados.Remove(empleadoExistente);
                 empleados.Add(empleado);
-            }
-            Console.WriteLine($"Empleado {empleado.PrimerNombre} {empleado.ApellidoPaterno} actualizado.");
-            Console.WriteLine(
-                "---Detalles del cambio---\n" +
-                "Antigua informacion" +
-                empleadoAntiguo.ToString());
 
-            Console.WriteLine(
-                "\nNueva Informacion" +
-                $"\n{empleado.ToString()}");
+                Console.WriteLine($"Empleado {empleado.PrimerNombre} {empleado.ApellidoPaterno} actualizado.");
+
+                Console.WriteLine(
+                    "\nNueva Informacion" +
+                    $"\n{empleado.ToString()}");
+            }
+            else Console.WriteLine("Usuario no encontrado");
+            
         }
         public void EliminarTodosEmpleados()
         {

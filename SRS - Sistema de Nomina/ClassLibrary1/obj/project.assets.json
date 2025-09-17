@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Itla\\Programacion II\\Diseño orientado a objetos\\SRS - Sistema de Nomina\\ClassLibrary1\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\ClassLibrary1\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\kevin\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Itla\\Programacion II\\Diseño orientado a objetos\\SRS - Sistema de Nomina\\ClassLibrary1\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\ClassLibrary1\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Itla\\Programacion II\\Diseño orientado a objetos\\SRS - Sistema de Nomina\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

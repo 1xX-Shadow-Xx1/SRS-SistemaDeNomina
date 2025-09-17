@@ -9,3 +9,15 @@ C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Pr
 C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Programacion II\Diseño orientado a objetos\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary.dll
 C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Programacion II\Diseño orientado a objetos\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.pdb
 C:\Users\kevin\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Itla\Programacion II\Diseño orientado a objetos\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\kevin\Desktop\Sistema de faturacion\SRS-SistemaDeNomina\SRS - Sistema de Nomina\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary.dll

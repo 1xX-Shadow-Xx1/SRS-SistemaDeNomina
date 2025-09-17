@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Itla\\Programacion II\\Dise\u00F1o orientado a objetos\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\",
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFBBD007-906D-4E7A-A52B-4498A8D80C22}|..\\ClassLibrary1\\ClassLibrary.csproj|c:\\users\\kevin\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\itla\\programacion ii\\dise\u00F1o orientado a objetos\\srs - sistema de nomina\\classlibrary1\\tipos de empleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\kevin\\desktop\\sistema de faturacion\\srs-sistemadenomina\\srs - sistema de nomina\\srs - sistema de nomina\\winformsapp\\ventanas emergentes\\emergenteeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D814E6-4260-43BA-8D64-1A4FC910B271}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\ventanas emergentes\\emergenteeditar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Itla\\Programacion II\\Dise\u00F1o orientado a objetos\\SRS - Sistema de Nomina\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
-              "ToolTip": "C:\\Users\\kevin\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Itla\\Programacion II\\Dise\u00F1o orientado a objetos\\SRS - Sistema de Nomina\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
-              "RelativeToolTip": "..\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Title": "EmergenteEditar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Sistema de faturacion\\SRS-SistemaDeNomina\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp\\Ventanas Emergentes\\EmergenteEditar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T23:00:45.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T01:57:28.666Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

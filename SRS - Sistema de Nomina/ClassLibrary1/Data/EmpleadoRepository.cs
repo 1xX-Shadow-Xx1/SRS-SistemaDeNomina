@@ -17,10 +17,10 @@ namespace ClassLibrary1.Data
 
         public Empleado ObtenerEmpleadoPorNSS(string nss)
         {
-            List<Empleado> empleados = ObtenerEmpleados();
-            if(empleados != null)
+            Empleado emp = empleados.FirstOrDefault(e => e.NumeroSeguroSocial == nss);
+            if (empleados != null)
             {
-                return empleados.FirstOrDefault(e => e.NumeroSeguroSocial == nss);
+                return emp;
             }
             else return null;
 
@@ -38,19 +38,26 @@ namespace ClassLibrary1.Data
             Console.WriteLine($"Empleado con NSS {nss} eliminado.\n" +
                 $"--------------------------\n");
         }
-        public void ActualizarEmpleado(Empleado empleado)
+        public void ActualizarEmpleado(Empleado empleado, string nss)
         {
             // Lógica para actualizar un empleado en la base de datos o colección
-            var empleadoExistente = ObtenerEmpleadoPorNSS(empleado.NumeroSeguroSocial);
-            if (empleadoExistente != null)
+
+            Empleado emp = ObtenerEmpleadoPorNSS(nss);
+
+            if (emp != null)
             {
-                empleados.Remove(empleadoExistente);
+                empleados.Remove(emp);
                 empleados.Add(empleado);
 
                 Console.WriteLine($"Empleado {empleado.PrimerNombre} {empleado.ApellidoPaterno} actualizado.");
 
                 Console.WriteLine(
-                    "\nNueva Informacion" +
+                    "--------Detallles de la edicion--------\n" +
+                    "----Vieja informacion---" +
+                    $"\n{emp.ToString()}\n");
+
+                Console.WriteLine(
+                    "\n---Nueva Informacion---" +
                     $"\n{empleado.ToString()}");
             }
             else Console.WriteLine("Usuario no encontrado");

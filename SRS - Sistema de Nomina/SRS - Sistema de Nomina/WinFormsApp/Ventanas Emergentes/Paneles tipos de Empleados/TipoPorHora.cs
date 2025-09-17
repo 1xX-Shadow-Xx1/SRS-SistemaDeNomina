@@ -60,7 +60,7 @@ namespace WinFormsApp.Ventanas_Emergentes.Paneles_tipos_de_Empleados
             int horas = Int32.Parse(textBoxHoras.Text);
 
             EmpleadoPorHoras empleadoPorHora = new EmpleadoPorHoras(nombre, apellido, nss, sueldo, horas);
-            services.ActualizarEmpleado(empleadoPorHora);
+            services.ActualizarEmpleado(empleadoPorHora,nss);
 
             MessageBox.Show("Empleado por horas Editado exitosamente");
             var parentForm = _emergenteEditar.Owner as FormApp;

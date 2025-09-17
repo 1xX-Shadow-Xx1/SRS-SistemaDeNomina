@@ -20,9 +20,9 @@ namespace ClassLibrary1.Services
         {
             repository.EliminarEmpleado(NSS);
         }
-        public void ActualizarEmpleado(Empleado empleado)
+        public void ActualizarEmpleado(Empleado empleado, string nss)
         {
-            repository.ActualizarEmpleado(empleado);
+            repository.ActualizarEmpleado(empleado,nss);
         }
         public void ListarEmpleados()
         {

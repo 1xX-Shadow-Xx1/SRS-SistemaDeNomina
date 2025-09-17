@@ -10,7 +10,7 @@ namespace ClassLibrary1.Interfaces
     {
         void AddEmpleado(Empleado empleado);
         void RemoveEmpleado(string NSS);
-        void ActualizarEmpleado(Empleado empleado);
+        void ActualizarEmpleado(Empleado empleado,string nss);
         void ListarEmpleados();
         Empleado BuscarEmpleado(string NSS);
     }

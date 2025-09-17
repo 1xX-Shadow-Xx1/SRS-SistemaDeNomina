@@ -62,7 +62,7 @@ namespace WinFormsApp.Ventanas_Emergentes.Paneles_tipos_de_Empleados
             decimal salario = Decimal.Parse(textBoxAsalariado.Text);
 
             EmpleadoAsalariado empleado = new EmpleadoAsalariado(nombre, apellido, nss, salario);
-            services.ActualizarEmpleado(empleado);
+            services.ActualizarEmpleado(empleado, nss);
             MessageBox.Show("Empleado Editado Exitosamente");
 
             var parentForm = _emergenteEditar.Owner as FormApp;

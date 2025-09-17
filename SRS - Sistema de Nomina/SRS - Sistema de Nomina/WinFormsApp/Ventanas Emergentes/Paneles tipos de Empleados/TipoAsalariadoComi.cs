@@ -65,7 +65,7 @@ namespace WinFormsApp.Ventanas_Emergentes.Paneles_tipos_de_Empleados
             decimal Tax = tarifa / 100;
 
             EmpleadoAsalariadoPorComision NewEmpleado = new EmpleadoAsalariadoPorComision(nombre,apellido,nss, Tax, ventas,salario);
-            services.ActualizarEmpleado(NewEmpleado);
+            services.ActualizarEmpleado(NewEmpleado, nss);
 
             MessageBox.Show("Empleado Editado Exitosamente");
             var parentForm = _emergenteEditar.Owner as FormApp;

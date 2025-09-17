@@ -12,6 +12,6 @@ namespace ClassLibrary1.Interfaces
         Empleado ObtenerEmpleadoPorNSS(string nss);
         void AgregarEmpleado(Empleado empleado);
         void EliminarEmpleado(string nss);
-        void ActualizarEmpleado(Empleado empleado);
+        void ActualizarEmpleado(Empleado empleado, string nss);
     }
 }

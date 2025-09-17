@@ -2,6 +2,7 @@
 using ClassLibrary1.Data;
 using System;
 using System.Data;
+using System.Diagnostics;
 using System.Windows.Forms;
 using WinFormsApp.Ventanas;
 
@@ -120,6 +121,8 @@ namespace WinFormsApp.Tablas
         public void DataBase()
         {
             DTableBase.Clear();
+            Stopwatch sw = Stopwatch.StartNew();
+            sw.Start();
             foreach (var emp in repository.ObtenerEmpleados())
             {
                 DataRow dr = DTableBase.NewRow();
@@ -130,10 +133,14 @@ namespace WinFormsApp.Tablas
                 dr["Salario"] = $"{emp.Ingresos():C}";
                 DTableBase.Rows.Add(dr);
             }
+            sw.Stop();
+            System.Diagnostics.Debug.WriteLine("Tiempo de que tardo Tabla Inicio y Admin: " + sw.Elapsed.TotalSeconds);
         }
         public void refrescarTablaAsalariado()
         {
             TablaAsalariado.Clear();
+            Stopwatch sw = Stopwatch.StartNew();
+            sw.Start();
             foreach (var emp in repository.ObtenerEmpleados())
             {
                 if (emp.TipoEmpleado == "Empleado Asalariado")
@@ -147,11 +154,16 @@ namespace WinFormsApp.Tablas
                     TablaAsalariado.Rows.Add(dr);
                 }
             }
+            sw.Stop();
+            System.Diagnostics.Debug.WriteLine("Tiempo de que tardo Tabla Salario: " + sw.Elapsed.TotalSeconds);
+
         }
         public void refrescarTablaAsalariadoConComision()
         {
             
             TablaAsalariadoConComision.Clear();
+            Stopwatch sw = Stopwatch.StartNew();
+            sw.Start();
             foreach (var emp in repository.ObtenerEmpleados())
             {
                 if (emp.TipoEmpleado == "Empleado Asalariado por Comisión")
@@ -170,11 +182,15 @@ namespace WinFormsApp.Tablas
                     TablaAsalariadoConComision.Rows.Add(dr);
                 }
             }
+            sw.Stop();
+            System.Diagnostics.Debug.WriteLine("Tiempo de que tardo Tabla Salario mas Comision: " + sw.Elapsed.TotalSeconds);
         }
         public void refrescarTablaPorComision()
         {
             
             TablaPorComision.Clear();
+            Stopwatch sw = Stopwatch.StartNew();
+            sw.Start();
             foreach (var emp in repository.ObtenerEmpleados())
             {
                 if (emp.TipoEmpleado == "Empleado por Comisión")
@@ -192,10 +208,14 @@ namespace WinFormsApp.Tablas
                     TablaPorComision.Rows.Add(dr);
                 }
             }
+            sw.Stop();
+            System.Diagnostics.Debug.WriteLine("Tiempo de que tardo Tabla Por Comision: " + sw.Elapsed.TotalSeconds);
         }
         public void refrescarTablaPorHora()
         {
             TablaPorHora.Clear();
+            Stopwatch sw = Stopwatch.StartNew();
+            sw.Start();
             foreach (var emp in repository.ObtenerEmpleados())
             {   
                 if (emp.TipoEmpleado == "Empleado por Horas")
@@ -212,11 +232,15 @@ namespace WinFormsApp.Tablas
                     TablaPorHora.Rows.Add(dr);
                 }
             }
+            sw.Stop();
+            System.Diagnostics.Debug.WriteLine("Tiempo de que tardo Tabla Por Horas: " + sw.Elapsed.TotalSeconds);
         }
         public void refrescarTablaPagos()
         {
             TablaPagos.Clear();
             decimal pago = 0;
+            Stopwatch sw = Stopwatch.StartNew();
+            sw.Start();
             foreach (var emp in repository.ObtenerEmpleados())
             {
                 DataRow dr = TablaPagos.NewRow();
@@ -229,6 +253,8 @@ namespace WinFormsApp.Tablas
                 TablaPagos.Rows.Add(dr);
             }
             VnPago.TxtNumericoTotaldePagos.Text = $"{pago:C}";
+            sw.Stop();
+            System.Diagnostics.Debug.WriteLine("Tiempo de que tardo Tablas Pago y Reportes: " + sw.Elapsed.TotalSeconds);
         }
 
         public void test()
@@ -239,7 +265,7 @@ namespace WinFormsApp.Tablas
             EmpleadoPorComision empleadoPorComision = new EmpleadoPorComision("Luis", "Martinez", "103", 0.06m, 10000m);
             EmpleadoAsalariadoPorComision empleadoAsalariadoPorComision = new EmpleadoAsalariadoPorComision("Maria", "Lopez", "104", 0.04m, 300m, 5000m);
 
-            for (int i = 0; i < 500; i++)
+            for (int i = 0; i < 2000; i++)
             {
                 repository.AgregarEmpleado(new EmpleadoAsalariado($"Nombre: Test{i}", $"Apellido Ta{i}", $"{i:D3}", 1000.00m + i));
                 i++;
@@ -248,7 +274,6 @@ namespace WinFormsApp.Tablas
                 repository.AgregarEmpleado(new EmpleadoPorComision($"Nombre: Test{i}", $"Apellido Ta{i}", $"{i:D3}",0.05m, 1000m + i));
                 i++;
                 repository.AgregarEmpleado(new EmpleadoAsalariadoPorComision($"Nombre: Test{i}", $"Apellido Ta{i}", $"{i:D3}", 0.08m, 2000m + i, 1000m + i));
-                i++;
             }
         }
     }

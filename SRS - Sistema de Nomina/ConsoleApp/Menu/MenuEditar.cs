@@ -26,6 +26,7 @@ namespace ConsoleApp.Menu
 
         public void EditarEmpleado(string nss)
         {
+            string nnsAntiguo = nss;
             Empleado empleado = services.BuscarEmpleado(nss);
             if(empleado == null)
             {
@@ -76,7 +77,7 @@ namespace ConsoleApp.Menu
                 empleado.ApellidoPaterno = apellidoIngresado != "" ? apellidoIngresado : apellido;
                 empleado.NumeroSeguroSocial = nssIngresado != "" ? nssIngresado : nss;
 
-                services.ActualizarEmpleado(empleado);
+                services.ActualizarEmpleado(empleado, nnsAntiguo);
                 return;
 
             }
@@ -94,7 +95,7 @@ namespace ConsoleApp.Menu
                         nssIngresado != "" ? nssIngresado : nss,
                         tarifaPorHora, 
                         horasTrabajadas);
-                    services.ActualizarEmpleado(empleadoPorHoras);
+                    services.ActualizarEmpleado(empleadoPorHoras, nnsAntiguo);
                     break;
                 case 2:
                     Console.WriteLine("Ingrese el nuevo salario semanal: ");
@@ -104,7 +105,7 @@ namespace ConsoleApp.Menu
                         apellidoIngresado != "" ? apellidoIngresado : apellido,
                         nssIngresado != "" ? nssIngresado : nss,
                         salarioSemanal);
-                    services.ActualizarEmpleado(empleadoAsalariado);
+                    services.ActualizarEmpleado(empleadoAsalariado, nnsAntiguo);
                     break;
                 case 3:
                     Console.WriteLine("Ingrese las ventas brutas: ");
@@ -119,7 +120,7 @@ namespace ConsoleApp.Menu
                         nssIngresado != "" ? nssIngresado : nss,
                         tarifa,
                         ventasBrutas);
-                    services.ActualizarEmpleado(empleadoPorComision);
+                    services.ActualizarEmpleado(empleadoPorComision, nnsAntiguo);
                     break;
                 case 4:
                     Console.WriteLine("Ingrese las ventas brutas: ");
@@ -137,7 +138,7 @@ namespace ConsoleApp.Menu
                         tarifa2,
                         ventasBrutas2,
                         salarioBase);
-                    services.ActualizarEmpleado(empleadoBaseMasComision);
+                    services.ActualizarEmpleado(empleadoBaseMasComision, nnsAntiguo);
                     break;
 
             }

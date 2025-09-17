@@ -46,7 +46,7 @@
             button1.Name = "button1";
             button1.Size = new Size(102, 29);
             button1.TabIndex = 6;
-            button1.Text = "Editar";
+            button1.Text = "Agregar";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 

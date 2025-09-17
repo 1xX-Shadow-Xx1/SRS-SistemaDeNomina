@@ -51,14 +51,14 @@ namespace WinFormsApp
 
         private void BotonInicio_CheckedChanged(object sender, EventArgs e)
         {
+            tablas.DataBase();
             VnInicio.BringToFront();
-            RefrescarTablas();
         }
 
         private void BotonAdministrarEmpleados_CheckedChanged(object sender, EventArgs e)
         {
+            tablas.DataBase();
             VnAdministrar.BringToFront();
-            RefrescarTablas();
         }
         public void RefrescarTablas()
         {
@@ -67,16 +67,22 @@ namespace WinFormsApp
 
         private void BotonPago_CheckedChanged(object sender, EventArgs e)
         {
+            tablas.refrescarTablaPagos();
             VnPago.BringToFront();
         }
 
         private void BotonLista_CheckedChanged(object sender, EventArgs e)
         {
+            tablas.refrescarTablaAsalariado();
+            tablas.refrescarTablaAsalariadoConComision();
+            tablas.refrescarTablaPorComision();
+            tablas.refrescarTablaPorHora();
             VnListas.BringToFront();
         }
 
         private void BotonReportes_CheckedChanged(object sender, EventArgs e)
         {
+            tablas.refrescarTablaPagos();
             VnReportes.BringToFront();
         }
 

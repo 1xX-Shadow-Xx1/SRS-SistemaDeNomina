@@ -65,7 +65,7 @@
             comboBoxTipoEmpleado.Font = new Font("Century Gothic", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             comboBoxTipoEmpleado.FormattingEnabled = true;
             comboBoxTipoEmpleado.Items.AddRange(new object[] { "Empleado Asalariado", "Empleado Asalariado por Comisión", "Empleado por Comisión", "Empleado por Horas" });
-            comboBoxTipoEmpleado.Location = new Point(154, 237);
+            comboBoxTipoEmpleado.Location = new Point(172, 234);
             comboBoxTipoEmpleado.Name = "comboBoxTipoEmpleado";
             comboBoxTipoEmpleado.Size = new Size(215, 25);
             comboBoxTipoEmpleado.TabIndex = 9;
@@ -75,11 +75,11 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Century Gothic", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.Location = new Point(35, 239);
+            label5.Location = new Point(12, 237);
             label5.Name = "label5";
-            label5.Size = new Size(117, 17);
+            label5.Size = new Size(154, 17);
             label5.TabIndex = 8;
-            label5.Text = "Tipo de Empleado:";
+            label5.Text = "Editar Tipo de Empleado:";
             // 
             // textBoxNSS
             // 

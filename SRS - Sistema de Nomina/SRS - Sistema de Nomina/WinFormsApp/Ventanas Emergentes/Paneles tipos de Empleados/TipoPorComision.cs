@@ -88,7 +88,7 @@ namespace WinFormsApp.Ventanas_Emergentes.Paneles_tipos_de_Empleados
                 }
                 button1.Text = "Editar";
             }
-            if(_emergenteAgregar == null) button1.Text = "Agregar";
+            if(_emergenteAgregar != null) button1.Text = "Agregar";
         }
     }
 }

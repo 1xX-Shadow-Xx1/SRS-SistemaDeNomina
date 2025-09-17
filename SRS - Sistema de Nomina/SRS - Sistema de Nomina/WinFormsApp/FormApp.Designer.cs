@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormApp));
             panel1 = new Panel();
             panelMenu = new Panel();
             BotonAdministrarEmpleados = new RadioButton();
@@ -66,9 +65,9 @@
             panelMenu.Controls.Add(BotonPago);
             panelMenu.Controls.Add(BotonInicio);
             panelMenu.Dock = DockStyle.Fill;
-            panelMenu.Location = new Point(0, 209);
+            panelMenu.Location = new Point(0, 239);
             panelMenu.Name = "panelMenu";
-            panelMenu.Size = new Size(313, 487);
+            panelMenu.Size = new Size(313, 457);
             panelMenu.TabIndex = 1;
             // 
             // BotonAdministrarEmpleados
@@ -170,13 +169,13 @@
             panelLogo.Dock = DockStyle.Top;
             panelLogo.Location = new Point(0, 0);
             panelLogo.Name = "panelLogo";
-            panelLogo.Size = new Size(313, 209);
+            panelLogo.Size = new Size(313, 239);
             panelLogo.TabIndex = 0;
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(36, 3);
+            pictureBox1.Image = Properties.Resources.dropbox;
+            pictureBox1.Location = new Point(29, 30);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(251, 177);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;

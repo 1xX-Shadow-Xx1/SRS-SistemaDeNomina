@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas Emergentes\EmergenteAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas Emergentes\EmergenteEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ventanas Emergentes\Paneles tipos de Empleados\TipoAsalariado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas Emergentes\Paneles tipos de Empleados\TipoAsalariadoComi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas Emergentes\Paneles tipos de Empleados\TipoPorComision.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas Emergentes\Paneles tipos de Empleados\TipoPorHora.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\UserControlBuscar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\UserControlInicio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\UserControlAdministrar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\UserControlListas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\UserControlPago.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ventanas\UserControlReportes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

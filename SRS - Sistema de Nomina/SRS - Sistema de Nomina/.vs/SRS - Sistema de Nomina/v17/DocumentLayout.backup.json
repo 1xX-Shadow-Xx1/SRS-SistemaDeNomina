@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Itla\\Programacion II\\Dise\u00F1o orientado a objetos\\SRS - Sistema de Nomina\\SRS - Sistema de Nomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBBD007-906D-4E7A-A52B-4498A8D80C22}|..\\ClassLibrary1\\ClassLibrary.csproj|c:\\users\\kevin\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\itla\\programacion ii\\dise\u00F1o orientado a objetos\\srs - sistema de nomina\\classlibrary1\\tipos de empleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Itla\\Programacion II\\Dise\u00F1o orientado a objetos\\SRS - Sistema de Nomina\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Itla\\Programacion II\\Dise\u00F1o orientado a objetos\\SRS - Sistema de Nomina\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Tipos de Empleados\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T23:00:45.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

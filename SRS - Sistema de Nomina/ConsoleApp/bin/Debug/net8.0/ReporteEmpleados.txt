@@ -1,0 +1,8 @@
+---- Reporte de Empleados ----
+Nombre: Juan Perez || NSS: 101 || Tipo de Empleado: EmpleadoAsalariado || Salario: 800$
+Nombre: Ana Gomez || NSS: 102 || Tipo de Empleado: EmpleadoPorHoras || Salario: 800$
+Nombre: Luis Martinez || NSS: 103 || Tipo de Empleado: EmpleadoPorComision || Salario: 600,00$
+Nombre: Maria Lopez || NSS: 104 || Tipo de Empleado: EmpleadoAsalariadoPorComision || Salario: 5012,00$
+Nombre: Carlos Ramo || NSS: 105 || Tipo de Empleado: EmpleadoAsalariado || Salario: 1000$
+--------------------------- 
+Total a Pagar: 8212,00$
